@@ -1,0 +1,15 @@
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\bin\Debug\net6.0\ClubeLeitura.ConsoleApp.exe
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\bin\Debug\net6.0\ClubeLeitura.ConsoleApp.deps.json
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\bin\Debug\net6.0\ClubeLeitura.ConsoleApp.runtimeconfig.json
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\bin\Debug\net6.0\ClubeLeitura.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\bin\Debug\net6.0\ClubeLeitura.ConsoleApp.pdb
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.AssemblyInfo.cs
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\refint\ClubeLeitura.ConsoleApp.dll
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.pdb
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ClubeLeitura.ConsoleApp.genruntimeconfig.cache
+C:\Users\Fabian\Source\Repos\ClubeLeitura\ClubeLeitura.ConsoleApp\obj\Debug\net6.0\ref\ClubeLeitura.ConsoleApp.dll
